@@ -19,7 +19,9 @@ so the diffs for each show the differences.
 
 Unfortunately, most of the differences in any given post's HTML are irrelevant;
 just frameworky stuff emitted by their blogging engine.
-So, here are the *relevant* diffs between each post:
+So, here are the *relevant* diffs between each post.
+
+(The default diff highlighter in GitHub's markdown kinda sucks, so [here's a commit of the pre/post lines so you'll actually get word wrapping and per-word diffing](https://github.com/tabatkins/talen-haruhi/commit/4eb7ac7c75c9c7e6fa751a55179324cdd6a18f4d).)
 
 ## Collapse -> Calidity
 
